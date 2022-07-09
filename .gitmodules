@@ -8,3 +8,8 @@
 	url = https://github.com/erblast/easyalluvial
 	shallow = true
 	registered = true
+[submodule "parcats"]
+	path = parcats
+	url = https://github.com/erblast/parcats
+	shallow = true
+	registered = true
