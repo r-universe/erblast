@@ -5,3 +5,6 @@
 [submodule "easyalluvial"]
 	path = easyalluvial
 	url = https://github.com/erblast/easyalluvial
+[submodule "parcats"]
+	path = parcats
+	url = https://github.com/erblast/parcats
